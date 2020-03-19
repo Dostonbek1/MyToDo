@@ -9,4 +9,4 @@ Screenshots:
 
 <img src="images/screenshot1.png" height="300px"> <img src="images/screenshot2.png" height="300px"> <img src="images/screenshot3.png" height="300px">
 
-*Special thanks to Codepath.org for their amazing courses*
+*Special thanks to <a href="codepath.org">Codepath.org</a> for their amazing courses*
