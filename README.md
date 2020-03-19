@@ -1,5 +1,5 @@
 # MyToDo
-*Simple ToDo app that helps users to plan their day or keep their shopping list in place*
+*Simple ToDo app that helps users plan their day accordingly or keep their shopping list in place*
 
 Download it on Google Play:
 
